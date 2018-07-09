@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\gouri\documents\visual studio 2015\projects\apt\apt\source.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\gouri\documents\visual studio 2015\projects\apt\apt\source.cpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\gouri\documents\visual studio 2015\projects\apt\apt\source.cpp(82): warning C4018: '<': signed/unsigned mismatch
+LINK : fatal error LNK1561: entry point must be defined

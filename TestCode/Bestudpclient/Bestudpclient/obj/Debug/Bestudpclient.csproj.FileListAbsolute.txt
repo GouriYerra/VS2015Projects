@@ -1,0 +1,6 @@
+C:\Users\gouri\Documents\Visual Studio 2015\Projects\TestCode\Bestudpclient\Bestudpclient\bin\Debug\Bestudpclient.exe.config
+C:\Users\gouri\Documents\Visual Studio 2015\Projects\TestCode\Bestudpclient\Bestudpclient\bin\Debug\Bestudpclient.exe
+C:\Users\gouri\Documents\Visual Studio 2015\Projects\TestCode\Bestudpclient\Bestudpclient\bin\Debug\Bestudpclient.pdb
+C:\Users\gouri\Documents\Visual Studio 2015\Projects\TestCode\Bestudpclient\Bestudpclient\obj\Debug\Bestudpclient.csprojResolveAssemblyReference.cache
+C:\Users\gouri\Documents\Visual Studio 2015\Projects\TestCode\Bestudpclient\Bestudpclient\obj\Debug\Bestudpclient.exe
+C:\Users\gouri\Documents\Visual Studio 2015\Projects\TestCode\Bestudpclient\Bestudpclient\obj\Debug\Bestudpclient.pdb

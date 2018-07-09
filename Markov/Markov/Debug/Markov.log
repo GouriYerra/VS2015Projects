@@ -1,0 +1,10 @@
+﻿  word_model.cpp
+  Generating Code...
+  Compiling...
+  markov.cpp
+c:\users\gouri\documents\visual studio 2015\projects\markov\markov\markov.h(10): warning C4081: expected 'identifier'; found 'string'
+c:\users\gouri\documents\visual studio 2015\projects\markov\markov\map_model.h(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\gouri\documents\visual studio 2015\projects\markov\markov\markov.cpp(195): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Markov.vcxproj -> C:\Users\gouri\Documents\Visual Studio 2015\Projects\Markov\Debug\Markov.exe
+  Markov.vcxproj -> C:\Users\gouri\Documents\Visual Studio 2015\Projects\Markov\Debug\Markov.pdb (Partial PDB)
