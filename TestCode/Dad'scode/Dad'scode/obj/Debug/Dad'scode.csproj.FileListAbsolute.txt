@@ -1,6 +1,0 @@
-C:\Users\gouri\Documents\Visual Studio 2015\Projects\TestCode\Dad'scode\Dad'scode\bin\Debug\Dad'scode.exe.config
-C:\Users\gouri\Documents\Visual Studio 2015\Projects\TestCode\Dad'scode\Dad'scode\bin\Debug\Dad'scode.exe
-C:\Users\gouri\Documents\Visual Studio 2015\Projects\TestCode\Dad'scode\Dad'scode\bin\Debug\Dad'scode.pdb
-C:\Users\gouri\Documents\Visual Studio 2015\Projects\TestCode\Dad'scode\Dad'scode\obj\Debug\Dad'scode.csprojResolveAssemblyReference.cache
-C:\Users\gouri\Documents\Visual Studio 2015\Projects\TestCode\Dad'scode\Dad'scode\obj\Debug\Dad'scode.exe
-C:\Users\gouri\Documents\Visual Studio 2015\Projects\TestCode\Dad'scode\Dad'scode\obj\Debug\Dad'scode.pdb

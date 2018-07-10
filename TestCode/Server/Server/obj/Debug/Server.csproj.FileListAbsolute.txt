@@ -1,6 +1,0 @@
-C:\Users\gouri\Documents\Visual Studio 2015\Projects\TestCode\Server\Server\bin\Debug\Server.exe.config
-C:\Users\gouri\Documents\Visual Studio 2015\Projects\TestCode\Server\Server\bin\Debug\Server.exe
-C:\Users\gouri\Documents\Visual Studio 2015\Projects\TestCode\Server\Server\bin\Debug\Server.pdb
-C:\Users\gouri\Documents\Visual Studio 2015\Projects\TestCode\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
-C:\Users\gouri\Documents\Visual Studio 2015\Projects\TestCode\Server\Server\obj\Debug\Server.exe
-C:\Users\gouri\Documents\Visual Studio 2015\Projects\TestCode\Server\Server\obj\Debug\Server.pdb

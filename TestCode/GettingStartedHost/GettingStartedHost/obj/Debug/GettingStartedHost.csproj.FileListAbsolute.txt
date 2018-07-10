@@ -1,6 +1,0 @@
-C:\Users\gouri\Documents\Visual Studio 2015\Projects\TestCode\GettingStartedHost\GettingStartedHost\bin\Debug\GettingStartedHost.exe.config
-C:\Users\gouri\Documents\Visual Studio 2015\Projects\TestCode\GettingStartedHost\GettingStartedHost\bin\Debug\GettingStartedHost.exe
-C:\Users\gouri\Documents\Visual Studio 2015\Projects\TestCode\GettingStartedHost\GettingStartedHost\bin\Debug\GettingStartedHost.pdb
-C:\Users\gouri\Documents\Visual Studio 2015\Projects\TestCode\GettingStartedHost\GettingStartedHost\obj\Debug\GettingStartedHost.exe
-C:\Users\gouri\Documents\Visual Studio 2015\Projects\TestCode\GettingStartedHost\GettingStartedHost\obj\Debug\GettingStartedHost.pdb
-C:\Users\gouri\Documents\Visual Studio 2015\Projects\TestCode\GettingStartedHost\GettingStartedHost\obj\Debug\GettingStartedHost.csprojResolveAssemblyReference.cache
